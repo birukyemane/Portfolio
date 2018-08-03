@@ -1,0 +1,46 @@
+
+header {
+    text-align: center;
+    background: yellow;
+}
+
+h1 {
+    font-size: 70px;
+    display: inline;
+    margin: 0 100px;
+}
+
+img.profilePic {    
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    border: 7px solid white;
+    border-radius: 20px;
+} 
+
+img.integrifyLogo {
+    width: 100px;
+    height: 100px;
+}
+
+a {          
+    color: white;
+    font-size:18px;
+    margin: 0px 10px 0px 10px;
+}
+
+nav.top {
+    padding: 10px;
+    background: rgba(0,0,0,0.5); 
+}
+
+section{
+    max-width: 700px;
+    margin: 40px auto;
+}
+
+footer{
+    text-align: center;
+    background: gray;
+    padding: 40px;
+}
