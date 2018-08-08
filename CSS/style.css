@@ -1,13 +1,12 @@
 
 header {
     text-align: center;
-    background: yellow;
 }
 
 h1 {
     font-size: 70px;
     display: inline;
-    margin: 0 100px;
+    margin: 0 200px;
 }
 
 img.profilePic {    
@@ -26,7 +25,7 @@ img.integrifyLogo {
 a {          
     color: white;
     font-size:18px;
-    margin: 0px 10px 0px 10px;
+    margin: 0px 30px 0px 30px;
 }
 
 nav.top {
@@ -37,10 +36,28 @@ nav.top {
 section{
     max-width: 700px;
     margin: 40px auto;
+    border: 2px solid;
 }
 
 footer{
     text-align: center;
     background: gray;
     padding: 40px;
+}
+
+.skills {
+    color: red;
+    font-size: 20px;
+}
+
+#hobbies {
+    margin: 30px auto;
+    border:  1px solid;
+    width: 600px;
+    font-size: 20px;
+}
+
+a.resources {
+    color:red;
+    font-size: 20px;
 }
